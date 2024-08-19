@@ -1,0 +1,13 @@
+html, body {
+      display: flex;
+      justify-content: center;
+    }
+    /* Add this code to your styles.css file */
+    #Text {
+      background-color: black;
+      border-radius: 10px;
+      color: white;
+      padding: 20px;
+      margin-left: auto;
+      margin-right: auto;
+    }
